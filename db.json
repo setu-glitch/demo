@@ -1,14 +1,30 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+    {
+        "colorArray":[
+                {
+                "colorName":"red",
+                "hexValue":"#f00"
+            },
+                {
+                "colorName":"green",
+                "hexValue":"#0f0"
+            },
+                {
+                "colorName":"blue",
+                "hexValue":"#00f"
+            },
+                {
+                "colorName":"cyan",
+                "hexValue":"#0ff"
+            },
+                {
+                "colorName":"magenta",
+                "hexValue":"#f0f"
+            },
+                {
+                "colorName":"yellow",
+                "hexValue":"#ff0"
+            }
+        ]
+    }
+]
